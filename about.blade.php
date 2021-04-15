@@ -127,8 +127,8 @@
               <div class="container" style="width:350px;">
                 <div class="row">
                   <div class="col-md-6">
-                    <img class="ml-3" src="img/grandistaluffy.jpg" alt="Logo" style="height:200px;">
-                    <p>Grandista Monkey D. Luffy</p>
+                    <img class="ml-3" src="img/grandistazoro.jpg" alt="Logo" style="height:200px;">
+                    <p>Grandista Roronoa Zoro</p>
                   </div>
                   <div class="col-md-6">
                     <a class="dropdown-item disabled font-weight-bold" href="#">Gender</a>
@@ -148,8 +148,8 @@
               <div class="container" style="width:350px;">
                 <div class="row">
                   <div class="col-md-6">
-                    <img class="ml-3" src="img/figmacapt.jpg" alt="Logo" style="height:200px;">
-                    <p>Figma Captain America</p>
+                    <img class="ml-3" src="img/fignaruto.jpg" alt="Logo" style="height:200px;">
+                    <p>Figma Naruto</p>
                   </div>
                   <div class="col-md-6">
                     <a class="dropdown-item disabled font-weight-bold" href="#">Brands</a>
@@ -204,7 +204,7 @@
             <tbody>
               <tr>
                 <td>Nama</td>
-                <td>Jihadt Akbar</td>
+                <td>Muhammad Fahruz Hifzurrahman</td>
               </tr>
               <tr>
                 <td>Jenis Kelamin</td>
@@ -212,7 +212,7 @@
               </tr>
               <tr>
                 <td>Tempat Tanggal Lahir</td>
-                <td>Rembang, 25 Juli 2021</td>
+                <td>Kendal, 03 Februari 2001</td>
               </tr>
               <tr>
                 <td>Hobi</td>
@@ -220,7 +220,7 @@
               </tr>
               <tr>
                 <td>Moto Hidup</td>
-                <td>Satu Hari Satu Typeset dan Clean Manga</td>
+                <td>Berusaha dan Bersyukur</td>
               </tr>
               <tr>
                 <td>Makanan Favorit</td>
@@ -228,7 +228,7 @@
               </tr>
               <tr>
                 <td>Minuman Favorit</td>
-                <td>Es Teh Murah</td>
+                <td>Energen Gratis</td>
               </tr>
             </tbody>
         </table>
