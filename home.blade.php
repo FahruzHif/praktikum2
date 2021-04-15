@@ -195,7 +195,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/crlogan.jpeg" class="d-block w-100" alt="logan">
+            <img src="img/aot.png" class="d-block w-100" alt="aot">
           </div>
           <div class="carousel-item">
             <img src="img/crship.jpg" class="d-block w-100" alt="shipping">
