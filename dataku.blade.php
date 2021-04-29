@@ -198,26 +198,34 @@
         <table class="table table-hover">
             <thead>
               <tr>
-                <th>Data</th>
-                <th>Isi Data</th>
+                <th>Nama</th>
+                <th>NIM</th>
+                <th>Alamat</th>
+                <th>Semester</th>
+                <th>Tahun Ajaran</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>Nama Mahasiswa</td>
-                <td><?= $nama ?></td>
+                <td>{{$nama[0]}}</td>
+                <td><a href="/dataku/{{$nim[0]}}">{{$nim[0]}}</a></td>
+                <td>{{$alamat[0]}}</td>
+                <td>{{$semester}}</td>
+                <td>{{$ajaran}}</td>
               </tr>
               <tr>
-                <td>Alamat</td>
-                <td><?= $alamat ?></td>
+                <td>{{$nama[1]}}</td>
+                <td><a href="/dataku/{{$nim[1]}}">{{$nim[1]}}</a></td>
+                <td>{{$alamat[1]}}</td>
+                <td>{{$semester}}</td>
+                <td>{{$ajaran}}</td>
               </tr>
               <tr>
-                <td>Semester</td>
-                <td><?= $semester ?></td>
-              </tr>
-              <tr>
-                <td>NIM</td>
-                <td><?= $nim ?></td>
+                <td>{{$nama[2]}}</td>
+                <td><a href="/dataku/{{$nim[2]}}">{{$nim[2]}}</a></td>
+                <td>{{$alamat[2]}}</td>
+                <td>{{$semester}}</td>
+                <td>{{$ajaran}}</td>
               </tr>
             </tbody>
         </table>
